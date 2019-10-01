@@ -1,3 +1,5 @@
+__pycache__/problem_unittests.cpython-36.pyc
 .ipynb_checkpoints/
 processed_celeba_small
 processed_celeba_small.zip
+*.log
