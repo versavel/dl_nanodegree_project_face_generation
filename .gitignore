@@ -1,3 +1,6 @@
+nohup.out
+__pycache__/
 .ipynb_checkpoints/
 processed_celeba_small
 processed_celeba_small.zip
+*.log
