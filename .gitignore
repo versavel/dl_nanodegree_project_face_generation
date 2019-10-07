@@ -1,4 +1,5 @@
-__pycache__/problem_unittests.cpython-36.pyc
+nohup.out
+__pycache__/
 .ipynb_checkpoints/
 processed_celeba_small
 processed_celeba_small.zip
