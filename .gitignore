@@ -1,7 +1,6 @@
-error.log
 nohup.out
-output.log
-__pycache__/problem_unittests.cpython-36.pyc
+__pycache__/
 .ipynb_checkpoints/
 processed_celeba_small
 processed_celeba_small.zip
+*.log
